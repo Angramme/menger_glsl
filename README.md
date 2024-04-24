@@ -2,6 +2,8 @@
 
 > This is a prototype! A version written in Rust using gfx-rs along with compute shaders for better performance is eventually planned.
 
+> I made a WebGL based version [here](https://fractal.ozieblowski.dev/). See the code [here](https://github.com/Angramme/fractal_web)
+
 This simple renderer uses GLSL accelerated Ray Marching and a host program written in the Processing language to display fractals.
 
 It can render any fractal which can be defined with a signed distance function (SDF). 
